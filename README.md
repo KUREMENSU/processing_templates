@@ -4,7 +4,7 @@ TODO: 私は自作のキャラクターを作成し、体の一部を動かし�
 
 ## Installation
 
-
+githubでproccesing2をforkしてcloneしてください
 
 ## Usage
 
